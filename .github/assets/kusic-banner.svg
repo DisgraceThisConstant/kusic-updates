@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="360" viewBox="0 0 1280 360" role="img" aria-label="Kusic — музыкальный плеер для Windows">
+  <defs>
+    <linearGradient id="base" x2="1" y2="1"><stop stop-color="#191b22"/><stop offset="1" stop-color="#0d0f14"/></linearGradient>
+    <radialGradient id="glow"><stop stop-color="#c9f36a" stop-opacity=".15"/><stop offset="1" stop-color="#c9f36a" stop-opacity="0"/></radialGradient>
+    <linearGradient id="glass" x2="1" y2="1"><stop stop-color="#ffffff" stop-opacity=".13"/><stop offset=".5" stop-color="#ffffff" stop-opacity=".02"/><stop offset="1" stop-color="#c9f36a" stop-opacity=".06"/></linearGradient>
+    <linearGradient id="edge" x2="1" y2="1"><stop stop-color="#ffffff" stop-opacity=".35"/><stop offset=".55" stop-color="#ffffff" stop-opacity=".04"/><stop offset="1" stop-color="#c9f36a" stop-opacity=".2"/></linearGradient>
+  </defs>
+  <rect x="1" y="1" width="1278" height="358" rx="30" fill="url(#base)" stroke="#ffffff" stroke-opacity=".12"/>
+  <ellipse cx="1120" cy="225" rx="370" ry="330" fill="url(#glow)"/>
+  <g transform="translate(86 108) scale(.14)">
+    <rect x="20" y="20" width="984" height="984" rx="197" fill="#fff"/>
+    <g transform="translate(20 20) scale(1.2913385827 1.2845953003) translate(-246.5 -244)">
+      <path fill="#000" d="M428.5 376.5 H526.5 V562.5 L723.5 376.5 H850 L601 618 H654.5 V673.5 H716.5 V727.5 H776.5 V784.5 H840.5 V874 H764.5 V822.5 H714 V764.5 H649.5 V707 H584.5 V618.5 H526.5 V874 H428.5 Z"/>
+    </g>
+  </g>
+  <text x="270" y="183" fill="#f8f9fb" font-family="Onest,Segoe UI,Arial,sans-serif" font-size="78" font-weight="650" letter-spacing="-3">Kusic</text>
+  <text x="275" y="229" fill="#a9adb9" font-family="Segoe UI,Arial,sans-serif" font-size="24">Твоя музыка. Твой ритм.</text>
+  <g transform="translate(974 92) rotate(14 70 82)">
+    <rect width="140" height="166" rx="38" fill="url(#glass)" stroke="url(#edge)" stroke-width="1.5"/>
+    <path d="M25 114V51M47 129V36M69 141V24M91 125V40M113 106V60" stroke="#d5f795" stroke-opacity=".65" stroke-width="6" stroke-linecap="round"/>
+  </g>
+</svg>

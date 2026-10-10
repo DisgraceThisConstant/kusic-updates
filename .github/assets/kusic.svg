@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1024" height="1024" viewBox="0 0 1024 1024">
+  <title>Kusic</title>
+  <!-- Clean geometric tracing of the owner's K mark. Transparent outside the tile. -->
+  <rect x="20" y="20" width="984" height="984" rx="197" fill="#fff"/>
+  <g transform="translate(20 20) scale(1.2913385827 1.2845953003) translate(-246.5 -244)">
+    <path fill="#000" d="M428.5 376.5 H526.5 V562.5 L723.5 376.5 H850 L601 618 H654.5 V673.5 H716.5 V727.5 H776.5 V784.5 H840.5 V874 H764.5 V822.5 H714 V764.5 H649.5 V707 H584.5 V618.5 H526.5 V874 H428.5 Z"/>
+  </g>
+</svg>
